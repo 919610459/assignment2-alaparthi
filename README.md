@@ -48,6 +48,7 @@
 >*Author:* Henry David Thoreau
 
 -----
+# create a new section using code fencing
 >In graph theory, a cycle in a graph is a non-empty trail in which the only repeated vertices are the first and last vertices. A directed cycle in a directed graph is a non-empty directed trail in which the only repeated vertices are the first and last vertices.
 
 A graph without cycles is called an acyclic graph. A directed graph without directed cycles is called a directed acyclic graph. A connected graph without cycles is called a tree.<https://en.wikipedia.org/wiki/Cycle_(graph_theory)>
@@ -101,7 +102,6 @@ void find_cycle() {
         cout << endl;
     }
 }
-Here is an implementation for undirected graph. Note that in the undirected version, if a vertex v gets colored black, it will never be visited again by the DFS. This is because we already explored all connected edges of v when we first visited it. The connected component containing v (after removing the edge between v and its parent) must be a tree, if the DFS has completed processing v without finding a cycle. So we don't even need to distinguish between gray and black states. Thus we can turn the char vector color into a boolean vector visited.
 
 int n;
 vector<vector<int>> adj;
