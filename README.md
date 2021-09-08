@@ -18,13 +18,11 @@
     3. Aramghar Cross Road
     4. Koti Nayapul
     5. Charminar
-* famous in charminar
-    * hyderabad biryani
-        * Charminar Biryani House
-        *  Shadab Hotel Restaurant
-        * Dum ka biryani
-    * bangles
-    * perals
+* Items to carry
+  * camera
+  * currency
+  * Id proofs
+  * credit and debit cards
 
 **[link to about me](AboutMe.md)**
 
