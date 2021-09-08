@@ -28,3 +28,15 @@
 
 **[link to about me](AboutMe.md)**
 
+------
+# Heading for the  creating a Table foods and drinks
+
+*Introduction:*
+ The following is to create a table with atleast 4 food/drinks that you would recommend someone try. Include a short paragraph that introduces the table.
+
+|Mandatory   |fav1            |fav2             |fav3             |fav4            |
+|:--------:  |:---------:     |:---------:      |:----------:     |:----------:    |
+|Food        |biryani         |idly             |chicken fry      |Coke            |
+|Location    |Hyderabad       |guntur           |Home             |Any             |
+|Amount      |600             |60               |300              |100             |
+
