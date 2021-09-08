@@ -40,3 +40,10 @@
 |Location    |Hyderabad       |guntur           |Home             |Any             |
 |Amount      |600             |60               |300              |100             |
 
+-----
+# Section of Quotes
+>"Success is not final; failure is not fatal: It is the courage to continue that counts."
+>*Author:* Winston S. Churchill<br>
+>"Success usually comes to those who are too busy to be looking for it."
+>*Author:* Henry David Thoreau
+
