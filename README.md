@@ -26,3 +26,5 @@
     * bangles
     * perals
 
+**[link to about me](AboutMe.md)**
+
